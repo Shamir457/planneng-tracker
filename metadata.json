@@ -1,0 +1,6 @@
+{
+  "name": "PlannEng Engineering - Daily Work Logger",
+  "description": "Daily work logging and field productivity tracking system for PlannEng Engineering. Inc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
